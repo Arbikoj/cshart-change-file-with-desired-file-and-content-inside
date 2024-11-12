@@ -1,0 +1,15 @@
+C:\Users\SE-77\Documents\tes php index\FolderCrawler\bin\Debug\net6.0\FolderCrawler.exe
+C:\Users\SE-77\Documents\tes php index\FolderCrawler\bin\Debug\net6.0\FolderCrawler.deps.json
+C:\Users\SE-77\Documents\tes php index\FolderCrawler\bin\Debug\net6.0\FolderCrawler.runtimeconfig.json
+C:\Users\SE-77\Documents\tes php index\FolderCrawler\bin\Debug\net6.0\FolderCrawler.dll
+C:\Users\SE-77\Documents\tes php index\FolderCrawler\bin\Debug\net6.0\FolderCrawler.pdb
+C:\Users\SE-77\Documents\tes php index\FolderCrawler\obj\Debug\net6.0\FolderCrawler.csproj.AssemblyReference.cache
+C:\Users\SE-77\Documents\tes php index\FolderCrawler\obj\Debug\net6.0\FolderCrawler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SE-77\Documents\tes php index\FolderCrawler\obj\Debug\net6.0\FolderCrawler.AssemblyInfoInputs.cache
+C:\Users\SE-77\Documents\tes php index\FolderCrawler\obj\Debug\net6.0\FolderCrawler.AssemblyInfo.cs
+C:\Users\SE-77\Documents\tes php index\FolderCrawler\obj\Debug\net6.0\FolderCrawler.csproj.CoreCompileInputs.cache
+C:\Users\SE-77\Documents\tes php index\FolderCrawler\obj\Debug\net6.0\FolderCrawler.dll
+C:\Users\SE-77\Documents\tes php index\FolderCrawler\obj\Debug\net6.0\refint\FolderCrawler.dll
+C:\Users\SE-77\Documents\tes php index\FolderCrawler\obj\Debug\net6.0\FolderCrawler.pdb
+C:\Users\SE-77\Documents\tes php index\FolderCrawler\obj\Debug\net6.0\FolderCrawler.genruntimeconfig.cache
+C:\Users\SE-77\Documents\tes php index\FolderCrawler\obj\Debug\net6.0\ref\FolderCrawler.dll
